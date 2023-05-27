@@ -1,0 +1,5 @@
+D:\AllVisualStudioProjects\MathCalculations\obj\Debug\MathCalculations.csproj.CoreCompileInputs.cache
+D:\AllVisualStudioProjects\MathCalculations\bin\Debug\MathCalculations.dll
+D:\AllVisualStudioProjects\MathCalculations\bin\Debug\MathCalculations.pdb
+D:\AllVisualStudioProjects\MathCalculations\obj\Debug\MathCalculations.dll
+D:\AllVisualStudioProjects\MathCalculations\obj\Debug\MathCalculations.pdb
